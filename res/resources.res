@@ -140,14 +140,14 @@ SPRITE NathanFlyBack "sprites\Nathan Flyback Anim.png" 5 5 AUTO 0
 SPRITE nathan_die_sprite "sprites\Nathan Die MD Indexed.png" 4 4 FAST 0
 SPRITE DSSCardDrop "sprites\DSS Card Drop.png" 2 2 AUTO 0 
 
-SPRITE CamillaPortrait "portraits\Camilla.png" 6 8 AUTO 0
-SPRITE DraculaPortrait "portraits\Dracula.png" 6 8 AUTO 0
-SPRITE MorrisPorrait "portraits\Morris.png" 6 8 AUTO 0
-SPRITE HughPortrait "portraits\Hugh.png" 6 8 AUTO 0
-SPRITE NathanPortrait "portraits\Nathan.png" 6 8 AUTO 0
-SPRITE DashBootsPortrait "portraits\Dash Boots Portrait.png" 6 8 AUTO 0
-SPRITE DSSCardPortrait "portraits\DSS Card.png" 6 8 AUTO 0 
-SPRITE DoubleJumpPortrait "portraits\Double Jump Reveal Transparent MD Indexed.png" 6 8 AUTO 0
+SPRITE CamillaPortrait "portraits\Camilla.png" 6 8 AUTO 0 NONE NONE
+SPRITE DraculaPortrait "portraits\Dracula.png" 6 8 AUTO 0 NONE NONE
+SPRITE MorrisPorrait "portraits\Morris.png" 6 8 AUTO 0 NONE NONE
+SPRITE HughPortrait "portraits\Hugh.png" 6 8 AUTO 0 NONE NONE
+SPRITE NathanPortrait "portraits\Nathan.png" 6 8 AUTO 0 NONE NONE
+SPRITE DashBootsPortrait "portraits\Dash Boots Portrait.png" 6 8 AUTO 0 NONE NONE
+SPRITE DSSCardPortrait "portraits\DSS Card.png" 6 8 AUTO 0 NONE NONE
+SPRITE DoubleJumpPortrait "portraits\Double Jump Reveal Transparent MD Indexed.png" 6 8 AUTO 0 NONE NONE
 
 SPRITE TextLetterSprite "text\Text Letters.png" 1 1 AUTO 0
 TILESET item_menu_text_tiles "text\Text Letters.png" NONE NONE
